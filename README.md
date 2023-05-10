@@ -1,2 +1,2 @@
 # motoko-datetime
-DateTime Module for Motoko
+DateTime Module for Motoko.
